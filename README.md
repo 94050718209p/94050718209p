@@ -1,8 +1,9 @@
  hola amigoss👋👋👋
 
- mi nombre es wilmar ospina.
+ 
+ 
  👀 mis gustos son la tecnologia y con ella conectar las personas. poder ser parte de los creadores del metaverso es un logro pesonal
- ademas me gusta la musica.
+ ademas me gusta la musica y la velocidad.
  
  🌱actualmente estoy aprendiendo front-end y back-end. me gusta mucho este nuevo conocimiento que estoy viendo.
  un poco enredado pero es de practica 
